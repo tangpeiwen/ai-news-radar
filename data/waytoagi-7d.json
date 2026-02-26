@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T15:21:49.862276Z",
+  "generated_at": "2026-02-26T15:49:22.893731Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-26",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-02-26",
@@ -29,11 +29,16 @@
     },
     {
       "date": "2026-02-26",
+      "title": "作者开源了基于n8n搭建的评论深度分析工作流，搭配Gemini API实现22个维度的智能打标，自动生成有数据支撑的定量+定性分析报告，还能精准筛选高价值评论的解析。文章中附有完整源码和教程，教你从报告中挖掘可落地的商业机会。快来一同挖透评论里的用户需求、竞品痛点与市场空白！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-26",
       "title": "Claude Code新出的Remote Control功能太香了！手机就能远程操控电脑端AI编程，不用迁移代码和环境，出门也能让AI自主干活，还能实时查看进度、手机审批操作，而且多设备同步+语音指令超便捷。作者这篇三步就能上手的教程，还分享了全局开启、防止断连等5个提效技巧以及常见bug的解决办法。虽然功能还在打磨，但让AI干活的时间变成你的自由时间，效率拉满！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 42,
   "updates_7d": [
     {
       "date": "2026-02-26",
@@ -53,6 +58,11 @@
     {
       "date": "2026-02-26",
       "title": "当下OpenClaw生态爆火，相关项目与公司扎堆涌现，作者整理了四大关键生态数据，超具参考价值！不仅有Vercel Skills和ClawHub Skills两大平台的技能热度榜；还涵盖OpenClaw初创企业收入榜、28天流量榜，直观呈现了企业营收与平台流量的现状。一手数据带你精准捕捉行业动态，判断市场趋势。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "作者开源了基于n8n搭建的评论深度分析工作流，搭配Gemini API实现22个维度的智能打标，自动生成有数据支撑的定量+定性分析报告，还能精准筛选高价值评论的解析。文章中附有完整源码和教程，教你从报告中挖掘可落地的商业机会。快来一同挖透评论里的用户需求、竞品痛点与市场空白！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
