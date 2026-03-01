@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-03-01T17:39:19.434223Z",
+  "generated_at": "2026-03-01T18:10:03.676860Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-01",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-03-01",
+      "title": "阿真分享了剧本生成分镜的Skill全攻略，不仅给出可直接使用的成品Skill及下载链接，更拆解了从0到1的制作全流程。从前期敲定流程、明确输入输出，到中期让AI生成各类脚本，再到后期测试封装，还解答了制作、修改等关键问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-01",
       "title": "全国300+城市美食AI图鉴重磅出炉！作者以“桌前美食、窗外城市、远山江河”等独特视角，用Nano Banana2生成绝美画面，还分享了可直接套用的精致提示词，全图鉴按省份清晰排布，快来上手试试。",
@@ -33,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-03-01",
+      "title": "阿真分享了剧本生成分镜的Skill全攻略，不仅给出可直接使用的成品Skill及下载链接，更拆解了从0到1的制作全流程。从前期敲定流程、明确输入输出，到中期让AI生成各类脚本，再到后期测试封装，还解答了制作、修改等关键问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-01",
       "title": "全国300+城市美食AI图鉴重磅出炉！作者以“桌前美食、窗外城市、远山江河”等独特视角，用Nano Banana2生成绝美画面，还分享了可直接套用的精致提示词，全图鉴按省份清晰排布，快来上手试试。",
