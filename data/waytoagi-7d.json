@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T16:19:44.210820Z",
+  "generated_at": "2026-03-03T16:48:18.550959Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-03",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-03-03",
@@ -24,6 +24,11 @@
     },
     {
       "date": "2026-03-03",
+      "title": "我们总在追逐更新、更强的 AI 模型，却常常忽略了那些被技术甩在身后的普通人 —— 他们不懂代码，却手握几十年沉淀的行业经验与生存智慧。真正有意义的，应该是做 AI 与普通人之间的翻译官：把长辈的经验装进 AI，把复杂技术藏在后台，前台只留下最简单的语音、傻瓜式操作。让机器适应人，而不是让人去适应冰冷的技术。这样的 AI，才真正有温度、有力量！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-03",
       "title": "当你亲眼看到一个agent在接入了公司数据以后，做出了人类团队两三个月都没搭出来的决策体系， 你会意识到，team agent已经能用了，而且效果远超预期。这篇文章带你一起探索： 当龙虾从单兵进入team， 到底需要什么样的 基础设施？ 市面上有哪些 技术路线 在竞争？ 以及——为什么我认为 飞书是这一轮里最大的赢家。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -38,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 42,
   "updates_7d": [
     {
       "date": "2026-03-03",
@@ -53,6 +58,11 @@
     {
       "date": "2026-03-03",
       "title": "用OpenClaw辅助跨境业务，却卡在公众号、小红书这些平台拿不到内容？这篇文章是作者实测的真实踩坑笔记，专门解决最头疼的内容抓取与信息获取难题。覆盖Reddit、Amazon、TikTok 等10个跨境电商高频场景 ，从配置、调用到避坑一次性讲透，帮你省下大量试错时间与Token成本，真正把OpenClaw变成跨境运营的高效利器。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "我们总在追逐更新、更强的 AI 模型，却常常忽略了那些被技术甩在身后的普通人 —— 他们不懂代码，却手握几十年沉淀的行业经验与生存智慧。真正有意义的，应该是做 AI 与普通人之间的翻译官：把长辈的经验装进 AI，把复杂技术藏在后台，前台只留下最简单的语音、傻瓜式操作。让机器适应人，而不是让人去适应冰冷的技术。这样的 AI，才真正有温度、有力量！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
