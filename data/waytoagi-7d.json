@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-03-06T07:20:06.198900Z",
+  "generated_at": "2026-03-06T07:45:33.177710Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-06",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-03-06",
       "title": "想拥有能帮你发邮件、管日程、整理文件的 AI 私人助手？OpenClaw 保姆级安装教程来了！无需编程基础，小学生都能看懂跟着做。Mac 和 Windows 分路线教学，步骤清晰到复制粘贴命令即可，自动适配系统安装所需环境，30 分钟就能搞定。还附带常见问题排查、常用命令速查表，以及新手必装技能推荐，帮你快速解锁OpenClaw的强大功能，让它真正成为24小时在线的高效帮手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "云服务器没有图形界面，浏览器操作难以实现？OpenClaw两大浏览器模式完美破解，相比容易被封禁的传统爬虫、不稳定的Playwright，OpenClaw复用真实登录状态，没有自动化特征，风控规避能力拉满。个人资料模式可以适配24小时无人值守与敏感操作，扩展模式适合临时复用已有登录状态。文章还附带云服务器桌面环境配置、模式部署教程，无需复杂操作，远程指挥就可以实现稳定的网页自动化！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +28,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 43,
+  "count_7d": 44,
   "updates_7d": [
     {
       "date": "2026-03-06",
       "title": "想拥有能帮你发邮件、管日程、整理文件的 AI 私人助手？OpenClaw 保姆级安装教程来了！无需编程基础，小学生都能看懂跟着做。Mac 和 Windows 分路线教学，步骤清晰到复制粘贴命令即可，自动适配系统安装所需环境，30 分钟就能搞定。还附带常见问题排查、常用命令速查表，以及新手必装技能推荐，帮你快速解锁OpenClaw的强大功能，让它真正成为24小时在线的高效帮手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "云服务器没有图形界面，浏览器操作难以实现？OpenClaw两大浏览器模式完美破解，相比容易被封禁的传统爬虫、不稳定的Playwright，OpenClaw复用真实登录状态，没有自动化特征，风控规避能力拉满。个人资料模式可以适配24小时无人值守与敏感操作，扩展模式适合临时复用已有登录状态。文章还附带云服务器桌面环境配置、模式部署教程，无需复杂操作，远程指挥就可以实现稳定的网页自动化！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
