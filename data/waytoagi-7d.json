@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T17:25:06.862831Z",
+  "generated_at": "2026-04-07T17:50:03.576734Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-07",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-07",
@@ -14,7 +14,17 @@
     },
     {
       "date": "2026-04-07",
+      "title": "关于 AI 中持续学习的大多数讨论都聚焦于一件事：更新模型权重。但对于 AI 智能体来说，学习可以发生在三个不同层次上：模型、harness 和上下文。理解这三者的区别，会改变你构建可随时间持续改进系统的思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-07",
       "title": "一篇深入解析，讲清 Anthropic、OpenAI、Perplexity 和 LangChain 实际上在构建什么。涵盖编排循环、工具、记忆、上下文管理，以及其他一切能把一个无状态 LLM 变成有能力的 agent 的部分。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Amol Avasare是Anthropic的增长负责人。在他之前，他在MasterClass和Mercury做过增长，做过创始人，做过投资银行家。这一期他和Lenny聊的，是在史无前例的增速下，Anthropic的增长团队实际上在干什么，哪些传统打法彻底失效了，以及工程师生产力爆炸后PM和设计师的真实处境。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,7 +33,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-04-07",
@@ -32,7 +42,17 @@
     },
     {
       "date": "2026-04-07",
+      "title": "关于 AI 中持续学习的大多数讨论都聚焦于一件事：更新模型权重。但对于 AI 智能体来说，学习可以发生在三个不同层次上：模型、harness 和上下文。理解这三者的区别，会改变你构建可随时间持续改进系统的思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-07",
       "title": "一篇深入解析，讲清 Anthropic、OpenAI、Perplexity 和 LangChain 实际上在构建什么。涵盖编排循环、工具、记忆、上下文管理，以及其他一切能把一个无状态 LLM 变成有能力的 agent 的部分。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Amol Avasare是Anthropic的增长负责人。在他之前，他在MasterClass和Mercury做过增长，做过创始人，做过投资银行家。这一期他和Lenny聊的，是在史无前例的增速下，Anthropic的增长团队实际上在干什么，哪些传统打法彻底失效了，以及工程师生产力爆炸后PM和设计师的真实处境。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
