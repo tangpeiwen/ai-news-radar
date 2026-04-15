@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-15T16:27:35.416462Z",
+  "generated_at": "2026-04-15T16:53:06.740854Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-15",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-15",
+      "title": "同样质量的一篇文章，用传统方式（打开 AI 对话框来回改 Prompt）大概需要120-240分钟 。用我接下来要讲的这条管线，25-40分钟 ，而且我自己动手的时间不超过15分钟。省下来的时间不是偷懒——是把时间从 \"和 AI 拉扯\" 转移到了 \"注入我的判断\" 上。这篇文章和大家分享下 如何用最近很火的Cli来把审美变成可执行的内容生产线！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
@@ -18,8 +23,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-04-15",
+      "title": "同样质量的一篇文章，用传统方式（打开 AI 对话框来回改 Prompt）大概需要120-240分钟 。用我接下来要讲的这条管线，25-40分钟 ，而且我自己动手的时间不超过15分钟。省下来的时间不是偷懒——是把时间从 \"和 AI 拉扯\" 转移到了 \"注入我的判断\" 上。这篇文章和大家分享下 如何用最近很火的Cli来把审美变成可执行的内容生产线！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
