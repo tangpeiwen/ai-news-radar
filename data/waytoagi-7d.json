@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-30T16:02:25.803997Z",
+  "generated_at": "2026-04-30T17:00:46.007449Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-30",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-30",
+      "title": "这期 a16z 播客把Box CEO Aaron Levie、前微软 Windows 负责人 Steven Sinofsky 和 a16z 合伙人 Martin Casado 拉到同一张桌上，讨论 Agent 进入企业软件后的真实摩擦。Aaron 的判断很直接：企业不会靠几段 vibe coding 替换 SAP，AI 的扩散会被权限、数据、流程、成本和组织习惯拖住。未来 SaaS 的用户，可能不再是人，而是成千上万个Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-30",
       "title": "四月AI开源圈迎来爆发，国内各大厂密集上新，覆盖大语言、多模态、语音、具身智能、文生图等全赛道。智谱、阿里、腾讯、百度、Kimi、DeepSeek、小米等接连放出重磅开源模型，既有千亿级超大规模，也有轻量化、端侧适配的实用版本，同时补齐了语音识别、图像编辑、3D世界生成、翻译等细分领域。这份月度盘点帮你一次性收拢全网新品动态，快速掌握最新模型格局与选型方向。",
@@ -18,8 +23,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 23,
+  "count_7d": 24,
   "updates_7d": [
+    {
+      "date": "2026-04-30",
+      "title": "这期 a16z 播客把Box CEO Aaron Levie、前微软 Windows 负责人 Steven Sinofsky 和 a16z 合伙人 Martin Casado 拉到同一张桌上，讨论 Agent 进入企业软件后的真实摩擦。Aaron 的判断很直接：企业不会靠几段 vibe coding 替换 SAP，AI 的扩散会被权限、数据、流程、成本和组织习惯拖住。未来 SaaS 的用户，可能不再是人，而是成千上万个Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-30",
       "title": "四月AI开源圈迎来爆发，国内各大厂密集上新，覆盖大语言、多模态、语音、具身智能、文生图等全赛道。智谱、阿里、腾讯、百度、Kimi、DeepSeek、小米等接连放出重磅开源模型，既有千亿级超大规模，也有轻量化、端侧适配的实用版本，同时补齐了语音识别、图像编辑、3D世界生成、翻译等细分领域。这份月度盘点帮你一次性收拢全网新品动态，快速掌握最新模型格局与选型方向。",
