@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T16:36:34.852927Z",
+  "generated_at": "2026-06-03T18:29:25.678531Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-03",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-06-03",
@@ -15,6 +15,11 @@
     {
       "date": "2026-06-03",
       "title": "还在长篇堆运镜、光影、分镜提示词？欢迎开启Vibe Creating新范式，让创作回归 「表达」本身。暂时放下繁复的拍摄执行语言、精密的参数控制&分镜脚本，信任模型，放弃过度控制，好画面自然会浮现！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "智能体运行框架，是 AI 软件真正运行的地方。越来越多时候，真正交付软件的产品不是模型本身，而是运行框架。记忆，是运行框架设计中最难的部分。它应该放在哪里？一次会话结束后，哪些内容应该保留下来？这仍然是一个很大程度上未解决的问题，而且每个主要运行框架都在用不同方式解决它。这篇文章会梳理每个运行框架已经发布了什么、各自短板在哪里，以及这些缺口说明记忆基础设施必须承担什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -38,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-06-03",
@@ -48,6 +53,11 @@
     {
       "date": "2026-06-03",
       "title": "还在长篇堆运镜、光影、分镜提示词？欢迎开启Vibe Creating新范式，让创作回归 「表达」本身。暂时放下繁复的拍摄执行语言、精密的参数控制&分镜脚本，信任模型，放弃过度控制，好画面自然会浮现！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "智能体运行框架，是 AI 软件真正运行的地方。越来越多时候，真正交付软件的产品不是模型本身，而是运行框架。记忆，是运行框架设计中最难的部分。它应该放在哪里？一次会话结束后，哪些内容应该保留下来？这仍然是一个很大程度上未解决的问题，而且每个主要运行框架都在用不同方式解决它。这篇文章会梳理每个运行框架已经发布了什么、各自短板在哪里，以及这些缺口说明记忆基础设施必须承担什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
