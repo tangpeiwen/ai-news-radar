@@ -12647,5 +12647,6 @@
   "Quote of the day by Nvidia CEO, Jensen Huang: \"I appreciate that many of us grew up and enjoyed science fiction, but it's not helpful\" — on quantifying the existential risks posed by AI": "Nvidia 首席执行官黄仁勋 (Jensen Huang) 的每日名言：“我很欣赏我们中的许多人在成长过程中都喜欢科幻小说，但这对量化人工智能带来的生存风险没有帮助”",
   "Talk like an AI artist [OC]": "像 AI 艺术家一样说话 [OC]",
   "Computex 2026: Are We Heading for the Agentic PC Era Yet?": "Computex 2026：我们正在走向代理 PC 时代吗？",
-  "AI Can't Care": "人工智能不在乎"
+  "AI Can't Care": "人工智能不在乎",
+  "Sem: New primitive for code understanding – not LSPs, but entities on top of Git": "Sem：代码理解的新原语——不是 LSP，而是 Git 之上的实体"
 }
