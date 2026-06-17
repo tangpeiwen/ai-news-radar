@@ -14720,5 +14720,9 @@
   "Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years (Karen Freifeld/Reuters)": "资料来源：美国推迟将 DeepSeek、CXMT 和其他 100 多家标记公司添加到其实体名单中，最后一次更新是在 10 月份，这是 10 多年来最长的差距（Karen Freifeld/路透社）",
   "Portsh: A batch/shell polyglot that implements a Lisp": "Portsh：实现 Lisp 的批处理/shell 多语言程序",
   "Deft version 0.2.0 – required-keys for Clojure protocols": "Deft 版本 0.2.0 – Clojure 协议的必需密钥",
-  "Open source Action-RPG game (Clojure)": "开源动作角色扮演游戏 (Clojure)"
+  "Open source Action-RPG game (Clojure)": "开源动作角色扮演游戏 (Clojure)",
+  "Sources: Meta decided to support KOSA after it was packaged with language preempting state AI laws and a bill requiring app stores to verify users' ages (Politico)": "资料来源：Meta 决定支持 KOSA，因为它与取代州人工智能法律的语言和要求应用商店验证用户年龄的法案打包在一起 (Politico)",
+  "Kapwing: in tests, ~60% of the first 500 TikTok For You videos shown to a new account were AI slop, ~3x the slop shown to a new YouTube user via YouTube Shorts (Matt G. Southern/Search Engine Journal)": "Kapwing：在测试中，向新帐户显示的前 500 个 TikTok For You 视频中约有 60% 是 AI 内容，约为通过 YouTube Shorts 向新 YouTube 用户显示的内容的 3 倍（Matt G. Southern/搜索引擎杂志）",
+  "Stop Killing Games fails to secure EU law despite 1.3M signatures": "尽管有 130 万个签名，“停止杀戮游戏”仍未能获得欧盟法律的支持",
+  "Biff.fx: lightweight effects system for Clojure": "Biff.fx：Clojure 的轻量级效果系统"
 }
